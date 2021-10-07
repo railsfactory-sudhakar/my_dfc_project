@@ -13,7 +13,7 @@ status -->show added files and not added files and modified in red & green.
 commit -->opens editor| commit -m "mesage" -->its commit all staged files or added files.
 commit --amend -m "replace with message" --> for only change previous commited message.
 diff --> show's changes in txt if it is not commited only.
-restore --> its restore changes in txt if it is not commited only.
+
 
 show [hash-id] --> show's perticular commited info
 branch ->show current branch |branch "new`branch" --> creates new branch|branch -d "new branch" -->its delete new branch
