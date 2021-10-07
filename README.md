@@ -14,7 +14,7 @@ commit -->opens editor| commit -m "mesage" -->its commit all staged files or add
 commit --amend -m "replace with message" --> for only change previous commited message.
 diff --> show's changes in txt if it is not commited only.
 restore --> its restore changes in txt if it is not commited only.
-log --> show all commited with hash id & messaged
+
 show [hash-id] --> show's perticular commited info
 branch ->show current branch |branch "new`branch" --> creates new branch|branch -d "new branch" -->its delete new branch
 branch -a --> show's both local and repos branches.
